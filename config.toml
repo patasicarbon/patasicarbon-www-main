@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://patasicarbon.github.io/patasicarbon-www-main/"
+title = "Patasi Carbon Bike Frames Repair"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
-title = "Portio"
 # Main Menu
 [[menu.main]]
 name = "Home"
